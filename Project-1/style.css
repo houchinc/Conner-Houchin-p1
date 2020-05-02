@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    background-size: cover;
+    margin-top: 0px;
+    font-family: sans-serif;
+    color: cornsilk;
+}
+main {
+    background-image: url(images/galaxy-back.jpg);
+    background-size: cover;
+    background-origin: border-box;
+    padding: 2em 3em; 
+}
+main img{
+    float: right;
+}
+
+#overView {
+    font-size: 1.4em;
+}
+.review{
+    font-size: 1em;
+}
+#finalScoreCSS{
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}
+header {
+    background-color: floralwhite;
+    background-image: url(images/solar-system.jpg);
+    background-size: cover;
+    padding:.5em;
+    font-size: 2em;
+    color: cornsilk;
+}
+header h1 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+h1, h2, h3, h4 {
+  font-family: Verdana, sans-serif;
+}
+footer {
+    padding: 2em 3em;
+    background: #724f4f;
+}
+article h3 {
+    color: darkkhaki;
+}
+

@@ -1,0 +1,2 @@
+For my project, I decided to go base my ideas on the ones i used for my project 3, creating a review page for a game that I 
+enjoy and adding a few new features, including dynamic content.
